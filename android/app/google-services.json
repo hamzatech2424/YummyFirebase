@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1061328361296",
+    "firebase_url": "https://admin-3d251-default-rtdb.firebaseio.com",
+    "project_id": "admin-3d251",
+    "storage_bucket": "admin-3d251.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061328361296:android:81b55d22bc99e3f9cb7e55",
+        "android_client_info": {
+          "package_name": "com.example.yummyadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061328361296-49147l3smuum3toiephkjr73k36c3vrd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeiL2unrilHtvPIU28POB3BK6z1qC9b54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061328361296-49147l3smuum3toiephkjr73k36c3vrd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

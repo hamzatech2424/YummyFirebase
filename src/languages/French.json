@@ -1,0 +1,37 @@
+{
+    "translation": {
+        "Home":"Accueil",
+        "Categories":"Catégories",
+        "Select Restaurant":"Sélectionnez le restaurant",
+        "SelectYourCity":"Sélectionnez votre ville",
+        "Cart":"Chariot",
+        "Payment":"Paiement",
+        "Total":"Le total",
+        "Delievery" : "Livraison",
+        "Sub Total" : "Sous-total",
+        "Edit Address" : "Modifier l'adresse",
+        "Scheduled Time": "Heure prévue",
+        "Sign In":"S'identifier",
+        "Email ID":"Identifiant de messagerie",
+        "Password":"Mot de passe",
+        "Forgot Password?":"Mot de passe oublié?",
+        "Not yet a member,":"Pas encore membre,",
+        "Sign Up":"S'inscrire",
+        "Full Name":"Nom et prénom",
+        "Enter your Email":"Entrer votre Email",
+        "Already have a account,":"Vous avez déjà un compte,",
+        "*Email must be correctly Formated":"*L'e-mail doit être correctement formaté",
+        "*Password must be 6 characters long":"*Le mot de passe doit comporter 6 caractères",
+        "Payment Methods": "Mode de paiement",
+        "ADD NEW PAYMENT":"AJOUTER UN NOUVEAU PAIEMENT",
+        "Credit Cards":"Cartes de crédit",
+        "Card Number":"Numéro de carte",
+        "Confirm":"Confirmer",
+        "CheckOut":"Vérifier",
+        "DelieveryAddress":"Adresse de livraison",
+        "Items in Cart":"Articles dans le panier",
+        "Items Summary":"Résumé des articles",
+        "Cart is Empty":"Le panier est vide"
+     
+    }
+}
